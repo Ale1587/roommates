@@ -1,0 +1,32 @@
+{
+ "roommates": [
+  {
+   "correo": "milton.wallace@example.com",
+   "nombre": "Milton Wallace"
+  },
+  {
+   "correo": "tamara.rezende@example.com",
+   "nombre": "Tamara Rezende"
+  },
+  {
+   "correo": "billy.alexander@example.com",
+   "nombre": "Billy Alexander"
+  },
+  {
+   "correo": "louise.fernandez@example.com",
+   "nombre": "Louise Fernandez"
+  },
+  {
+   "correo": "alvin.sanchez@example.com",
+   "nombre": "Alvin Sanchez"
+  },
+  {
+   "correo": "kathrine.rage@example.com",
+   "nombre": "Kathrine Rage"
+  },
+  {
+   "correo": "arttu.salmela@example.com",
+   "nombre": "Arttu Salmela"
+  }
+ ]
+}

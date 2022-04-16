@@ -1,0 +1,52 @@
+{
+ "gastos": [
+  {
+   "id": "45c042",
+   "roommate": "Tamara Rezende",
+   "descripcion": "gas",
+   "monto": 17000
+  },
+  {
+   "id": "74cb36",
+   "roommate": "Tamara Rezende",
+   "descripcion": "utiles de aseo",
+   "monto": 470000
+  },
+  {
+   "id": "74000b",
+   "roommate": "Alvin Sanchez",
+   "descripcion": "utiles de aseo",
+   "monto": 70000
+  },
+  {
+   "id": "67ee74",
+   "roommate": "Louise Fernandez",
+   "descripcion": "comida",
+   "monto": 40000
+  },
+  {
+   "id": "3e711f",
+   "roommate": "Billy Alexander",
+   "descripcion": "comida",
+   "monto": 70000
+  },
+  {
+   "id": "48f7b6",
+   "roommate": "Alvin Sanchez",
+   "descripcion": "comida",
+   "monto": 30000
+  },
+  {
+   "id": "2926d7",
+   "roommate": "Louise Fernandez",
+   "descripcion": "comida",
+   "monto": 40000
+  },
+  {
+   "id": "27cb19",
+   "roommate": "Alvin Sanchez",
+   "descripcion": "utiles de aseos",
+   "monto": 15000
+  }
+ ]
+}
